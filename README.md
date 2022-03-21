@@ -16,3 +16,6 @@ The [link](https://automaticaddison.com/how-to-build-a-simulated-mobile-robot-ba
 The [link](https://automaticaddison.com/how-to-build-a-simulated-robot-arm-using-ros/ "link") to building the robotic arm: 
 
 ![](https://github.com/Spartan-Velanjeri/mobile_manipulator_body/blob/main/Robot_arm.gif)
+
+
+I would like to sincerely thank Addison Sears Collins for his wonderful blogs on ROS for Mobile Robots!
