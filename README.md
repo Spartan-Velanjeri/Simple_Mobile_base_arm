@@ -9,4 +9,5 @@ The URDF, config and STL files are from this link https://github.com/PacktPublis
 
 You can learn to build the same project through the links below
 The link to building the mobile base : https://automaticaddison.com/how-to-build-a-simulated-mobile-robot-base-using-ros/
+
 The link to building the robotic arm: https://automaticaddison.com/how-to-build-a-simulated-robot-arm-using-ros/
